@@ -1,0 +1,14 @@
+pagetable trace.sample.tr 4 4 8
+Page size: 65536 bytes
+Addresses processed: 224449
+Hits: 223477 (99.57%), Misses 972 (0.43%)
+Frames allocated: 972
+Bytes used:  36032848
+
+pagetable trace.sample.tr 16
+Page size: 65536 bytes
+Addresses processed: 224449
+Hits: 223477 (99.57%), Misses 972 (0.43%)
+Frames allocated: 972
+Bytes used:  524372
+
